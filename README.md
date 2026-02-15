@@ -28,7 +28,6 @@ Uzun süreli yanlış duruşta titreşim ve sesli uyarı
 Günlük analiz kaydı ve geçmiş görüntüleme
 İnternetsiz çalışabilme (ML Kit on-device)
 
-Akademik Bilgi
 Üniversite: Eskişehir Osmangazi Üniversitesi
 Bölüm: Elektrik-Elektronik Mühendisliği
 Yıl: 2025
